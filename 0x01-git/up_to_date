@@ -1,3 +1,4 @@
 git commit -m
 git status
 git branch checkout update_script
+git pull
